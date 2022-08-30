@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://craftdiy.github.io/news-update/sitemapx.xml
